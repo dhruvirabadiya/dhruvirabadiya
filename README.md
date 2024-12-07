@@ -16,7 +16,8 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** current
 
 ## 🌱 Currently Learning  
 - Full Stack Development  
-- Building Responsive and Scalable Applications  
+- Building Responsive and Scalable Applications
+- - Currently enrolled in the Full-Stack Development course at SkillQode Institute.
 
 ## 📌 Projects  
 
