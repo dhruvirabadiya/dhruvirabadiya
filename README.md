@@ -45,5 +45,5 @@ An innovative web-based application that connects users and service providers fo
 The platform aims to bridge the gap between service providers and users, offering a seamless and accessible space for knowledge exchange and professional growth.  
 
 ## 📫 Let's Connect!  
-- **LinkedIn**: [Dhruvi Rabadiya's LinkedIn](https://www.linkedin.com/in/dhruvi-rabadiya-030a34300/)  
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/dhruvi-rabadiya-030a34300/)  
 - **Email**: [rabdiyadhruvi64@gmail.com](mailto:rabdiyadhruvi64@gmail.com)  
