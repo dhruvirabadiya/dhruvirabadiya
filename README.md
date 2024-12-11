@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** current
 ## 💻 Skills  
 - **Frontend Development**: C, C++, Basic DSA, HTML, CSS, Sass, Bootstrap, Tailwind CSS, JavaScript, React.js  
 - **Backend Development**: Node.js, Express.js  
-- **Databases**: MySQL, MongoDB  
+- **Databases**: MongoDB  
 
 ## 🌱 Currently Learning  
 - Full Stack Development  
